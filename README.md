@@ -1,2 +1,2 @@
-# NCITBA_2017
- National Conference on Information Technology and Business Analytics - 2017
+# conference
+Responsive HTML5 Bootstrap 3 template for Event Site
